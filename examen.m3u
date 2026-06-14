@@ -22,3 +22,15 @@ http://astra.fibernetisp.com.co/play/a0b4/index.m3u8
 
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://i.imgur.com/Fww94l9.png",Canal Caracol 2 TDT
 http://astra.fibernetisp.com.co/play/a0e2/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://teleon.tv/
+https://signal.teleon.live/stream/canal4sv.m3u8?token=free
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 2]
+http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 3]
+http://190.61.101.11:7050/play/a06y/index.m3u8?hls

@@ -49,6 +49,7 @@ http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="DAZN",DAZN LaLiga (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/

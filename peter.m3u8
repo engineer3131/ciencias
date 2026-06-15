@@ -140,11 +140,11 @@ https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (México)
 http://24.152.53.3:8090/play/a012/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="Deportes",TUDN (V3)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg",Telemundo HD
 http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="Deportes",FOX 
+#EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="Deportes",FOX ONE
 http://190.61.101.11:7050/play/a09z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Fox%2B_2026.svg/revision/latest/scale-to-width-down/300?cb=20260207005308" group-title="Deportes",FOX+

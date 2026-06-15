@@ -1,5 +1,24 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="COPA MUNDIAL",Telemundo HD
+http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="COPA MUNDIAL",FOX ONE
+http://190.61.101.11:7050/play/a09z/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Fox%2B_2026.svg/revision/latest/scale-to-width-down/300?cb=20260207005308" group-title="COPA MUNDIAL",FOX+
+http://190.61.101.11:7050/play/a09c/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",Canal 4 TCS [Opc. 2]
+http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD
+http://190.7.19.197:232/play/a09i/index.m3u8
+
+
+
 #EXTINF:-1 group-title="Colombia" tvg-logo="https://imagenes.portafolio.co/files/image_1200_600/uploads/2024/10/16/67102ae198e0c.png",RCN HD
 http://astra.fibernetisp.com.co/play/a03s/index.m3u8
 

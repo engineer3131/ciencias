@@ -91,23 +91,23 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 http://181.224.255.210:8001/play/a0s8/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 (Nacional)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 (Nacional)[Opc. 2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/uZdVSoW.png" group-title="México", Canal 5 [Opc. 2]
 http://190.61.101.11:7050/play/a098/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (México)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/117/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (México)[Opc. 2]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 [Opc. 2]
 http://24.152.53.3:8090/play/a013/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 (México)[Opc. 3]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="México",Azteca 7 [Opc. 3]
 http://190.61.101.11:7050/play/a09b/index.m3u8?hls
 
 

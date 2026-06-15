@@ -48,22 +48,12 @@ http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
 
 
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qRkxSrkG/768px-DAZN-La-Liga-logo-svg.png" group-title="ESPAÑA",DAZN LaLiga (España)
+#EXTINF:-1 tvg-logo="https://d1sgwhnao7452x.cloudfront.net/dazn-og.jpg" group-title="ESPAÑA",DAZN LaLiga (España)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
 #EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" group-title="FOX Sports",FOX One (USA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sbooXpg.png" group-title="FOX Sports",Fox Soccer Plus (USA)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 
 
 
@@ -154,7 +144,7 @@ http://24.152.53.3:8090/play/a012/index.m3u8?hls
 http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/FOX_wordmark.svg" group-title="Deportes",FOX 
+#EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="Deportes",FOX 
 http://190.61.101.11:7050/play/a09z/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Fox%2B_2026.svg/revision/latest/scale-to-width-down/300?cb=20260207005308" group-title="Deportes",FOX+

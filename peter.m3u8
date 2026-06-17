@@ -10,9 +10,6 @@ http://45.190.185.204:9000/play/a0f8/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo 3 HD 
 http://45.190.185.204:9000/play/a0m9/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Puerto Rico HD 
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8 
-
 
 #EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="COPA MUNDIAL",FOX ONE
 http://190.61.101.11:7050/play/a09z/index.m3u8?hls
@@ -23,7 +20,7 @@ http://190.61.101.11:7050/play/a09c/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",Canal 4 TCS [Opc. 2]
 http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="El Salvador - TCS",Canal 4 TCS [Opc. 3]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",Canal 4 TCS [Opc. 3]
 http://45.190.185.204:9000/play/a043/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD
@@ -177,14 +174,15 @@ http://24.152.53.3:8090/play/a012/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo HD
 http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Puerto Rico HD 
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Miami HD
 http://45.190.185.204:9000/play/a0f8/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Miami HD [Opc.2]
 http://45.190.185.204:9000/play/a0m9/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="USA",Telemundo Puerto Rico HD 
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="USA",FOX ONE

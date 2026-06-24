@@ -7,7 +7,8 @@ http://205.235.6.29:8000/play/a0mh/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="COPA MUNDIAL",Telemundo 2 HD
 http://24.152.53.3:8090/play/a00z/index.m3u8?hls
 
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",Canal 4 TCS
+http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="COPA MUNDIAL",FOX ONE
 http://190.61.101.11:7050/play/a09z/index.m3u8?hls

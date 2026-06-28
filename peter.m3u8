@@ -19,7 +19,7 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",GEN Paraguay HD
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PRijvR0.png" group-title="COPA MUNDIAL",ChileVisión HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión HD
 http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 
 
@@ -28,6 +28,9 @@ http://190.7.19.197:232/play/a09i/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ctnvE3c.png" group-title="COPA MUNDIAL",TELETICA 7 HD
 http://190.61.101.11:7050/play/a07t/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cgIv5QK.png" group-title="COPA MUNDIAL",Trece TV Paraguay HD
+http://45.170.130.224:8000/play/a02m/index.m3u8
 
 
 

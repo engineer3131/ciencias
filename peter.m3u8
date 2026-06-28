@@ -22,15 +22,31 @@ http://45.170.130.224:8000/play/a04j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión HD
 http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD
-http://190.108.83.69:8000/play/a05w/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COPA MUNDIAL",TELETICA 7 HD
 http://190.61.101.11:7050/play/a07t/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png" group-title="COPA MUNDIAL",Trece TV Paraguay HD
 http://45.170.130.224:8000/play/a02m/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 2
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 3
+http://190.223.48.46:8000/play/a028/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 4
+http://191.97.59.33:8000/play/a09t/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 5
+http://8.243.126.131:8000/play/a05a/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 6
+http://38.187.7.252:8000/play/a03d/index.m3u8
+
 
 
 

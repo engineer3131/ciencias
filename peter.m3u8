@@ -16,7 +16,7 @@ http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",Canal 4 TCS HD
 https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",GEN Paraguay HD
+#EXTINF:-1 tvg-logo="https://ipparaguay.com.py/wp-content/uploads/2020/10/Gen-en-vivo.jpg" group-title="COPA MUNDIAL",GEN Paraguay HD
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión HD

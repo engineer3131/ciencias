@@ -47,6 +47,8 @@ http://8.243.126.131:8000/play/a05a/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 6
 http://38.187.7.252:8000/play/a03d/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 7
+http://181.64.27.65:8000/play/a0dq/index.m3u8
 
 
 

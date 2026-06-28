@@ -24,7 +24,7 @@ http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD
-http://190.7.19.197:232/play/a09i/index.m3u8
+http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COPA MUNDIAL",TELETICA 7 HD
 http://190.61.101.11:7050/play/a07t/index.m3u8?hls

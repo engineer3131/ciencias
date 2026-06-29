@@ -28,6 +28,16 @@ http://190.61.101.11:7050/play/a07t/index.m3u8?hls
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png" group-title="COPA MUNDIAL",Trece TV Paraguay HD
 http://45.170.130.224:8000/play/a02m/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GtRz6uRW4AEO9J6.jpg" group-title="COPA MUNDIAL",Tigo Sports HD
+http://205.235.6.29:8000/play/a10f/index.m3u8?hls
+
+
+#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1e3eb7174064335.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="COPA MUNDIAL",CAZETV
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD
 http://148.222.230.197:8000/play/a0mm/index.m3u8
 

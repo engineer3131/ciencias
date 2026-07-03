@@ -20,9 +20,12 @@ https://signal.teleon.live/stream/canal4sv.m3u8?token=free
 http://45.170.130.224:8000/play/a04j/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión HD
-http://181.119.185.32:8000/play/a026/index.m3u8?hls
+http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión 2
+http://181.119.185.32:8000/play/a026/index.m3u8?hls
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión 3
 http://205.235.6.29:8000/play/a10w/index.m3u8?hls
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COPA MUNDIAL",TELETICA 7 HD

@@ -1,13 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision HD [Opc.1]
-http://186.148.196.100:8000/play/a01p
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision HD [Opc.2]
-http://190.61.101.11:7050/play/a05k/index.m3u8?hls
-
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png",Univision HD [Opc.3]
-http://190.60.48.150:8000/play/univision/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium", Telemundo HD
 https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8
@@ -15,9 +8,6 @@ https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo HD [Opc.2]
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 
-
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional) SD [Opc.3]
-http://205.235.6.29:8000/play/a106/index.m3u8?hls
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo USA
 http://45.5.117.188:8000/play/a077/index.m3u8
@@ -34,11 +24,6 @@ http://200.35.176.154:8000/play/a05y/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo Miami
 http://45.228.234.62:8000/play/a01s/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Acción
-https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Romance
-https://xumo-drct-ch836-57aiq.fast.nbcuni.com/live/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium",Telemundo Puerto Rico
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -49,67 +34,9 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m
 
 
 #EXTINF:-1 tvg-logo="https://www.vitalthrills.com/wp-content/uploads/2025/08/foxone.jpg" group-title="COPA MUNDIAL",FOX ONE
-http://190.61.101.11:7050/play/a09z/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1a/Fox%2B_2026.svg/revision/latest/scale-to-width-down/300?cb=20260207005308" group-title="COPA MUNDIAL",FOX+
-http://190.61.101.11:7050/play/a09c/index.m3u8?hls
+https://ok.ru/videoembed/17310852582107
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",Canal 4 TCS 
-http://8.243.126.131:8000/play/a0fk/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N6FNk58k/Canal-4-TCS.png" group-title="COPA MUNDIAL",Canal 4 TCS HD
-https://signal.teleon.live/stream/canal4sv.m3u8?token=free
-
-#EXTINF:-1 tvg-logo="https://ipparaguay.com.py/wp-content/uploads/2020/10/Gen-en-vivo.jpg" group-title="COPA MUNDIAL",GEN Paraguay HD
-http://45.170.130.224:8000/play/a04j/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión HD
-http://origin.dpsgo.com/ssai/event/R6cwOFyHQXaW6-kMcfWYKA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión 2
-http://181.119.185.32:8000/play/a026/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8c/Chilevisi%C3%B3n_%282018-%29.png" group-title="COPA MUNDIAL",ChileVisión 3
-http://205.235.6.29:8000/play/a10w/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a1/Teletica_Logo.png" group-title="COPA MUNDIAL",TELETICA 7 HD
-http://190.61.101.11:7050/play/a07t/index.m3u8?hls
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logotrececanal.png" group-title="COPA MUNDIAL",Trece TV Paraguay HD
-http://45.170.130.224:8000/play/a02m/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/GtRz6uRW4AEO9J6.jpg" group-title="COPA MUNDIAL",Tigo Sports HD
-http://205.235.6.29:8000/play/a10f/index.m3u8?hls
-
-
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/1e3eb7174064335.Y3JvcCwxMzgwLDEwODAsMjcwLDA.png" group-title="COPA MUNDIAL",CAZETV
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 2
-http://38.187.7.252:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 3
-http://190.223.48.46:8000/play/a028/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 4
-http://191.97.59.33:8000/play/a09t/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 5
-http://8.243.126.131:8000/play/a05a/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 6
-http://38.187.7.252:8000/play/a03d/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/DSports.png" group-title="COPA MUNDIAL",DSports HD 7
-http://181.64.27.65:8000/play/a0dq/index.m3u8
 
 
 

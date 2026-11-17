@@ -12,8 +12,8 @@ http://190.60.48.150:8000/play/univision/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DVASpQj.png" group-title="Entretenimiento Premium", Telemundo HD
 https://streamer1.nexgen.bz/TELEMUNDO/tracks-v3a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional) SD  [Opc.2]
-http://181.224.255.210:8001/play/a0ot/index.m3u8?hls
+#EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo HD [Opc.2]
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 
 #EXTINF:-1 group-title="Entretenimiento Premium" tvg-logo="https://i.imgur.com/DVASpQj.png",Telemundo (Internacional) SD [Opc.3]
 http://205.235.6.29:8000/play/a106/index.m3u8?hls
